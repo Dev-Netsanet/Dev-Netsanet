@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Netsanet
-- 👀 I’m interested in User center design
-- 🌱 I’m currently learning User Experiance Researcher
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Saas projects
 - 📫 How to reach me Netsanetsolomonmulu@gmail.com
 - 😄 Pronouns: He/him
